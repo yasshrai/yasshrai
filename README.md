@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer & CS Student passionate about full-stack development.<br>🧠 Exploring MERN stack, Next.js, and Linux Kernel internals.<br>🚀 I love building scalable, efficient apps and experimenting with new technologies.<br>🤝 Open to collaboration on open-source and impactful tech projects.<br>📚 Lifelong learner driven by curiosity and code.
+👨‍💻 Software Engineer & CS Student passionate about full-stack development.<br>🧠 Exploring MERN stack, Next.js.<br>🚀 I love building scalable, efficient apps and experimenting with new technologies.<br>🤝 Open to collaboration on open-source and impactful tech projects.<br>📚 Lifelong learner driven by curiosity and code.
 
 
 ## 🌐 Socials:
