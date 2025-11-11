@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yasshrai&show_icons=true&langs_count=7&theme=github_dark&locale=en)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=yasshrai&custom_title=yash's%20Contribution%20Graph&theme=tokyo-night&hide_border=false&radius=15)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
 
 
